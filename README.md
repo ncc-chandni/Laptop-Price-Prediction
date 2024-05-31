@@ -1,5 +1,17 @@
-Laptop Price Prediction - This project focuses on predicting laptop prices using a reliable machine learning model. 
-The dataset consists of 11 columns, each detailing various features of the laptops. 
-The process begins with understanding the data, followed by cleaning, feature engineering, feature selection, and finally, model building and evaluation.
-This project demonstrates a comprehensive approach to predictive analysis, from data understanding to model deployment, ensuring robust and 
-accurate price predictions for laptops using machine learning algorithms.
+# Laptop-Price-Predictor
+• Web-based application that predicts the price of the laptop according to the configuration input by user.
+
+• The project includes eight major stages of the ML life cycle to result in structured, practical business value.
+
+# Business Problem
+Predict the Price of laptop on the basis of
+
+Context : A dataset for 1300 laptop models. Content, Company Name, Product Name, Laptop Type, Screen Inches, Screen Resolution, CPU Model, RAM Characteristics, Memory, GPU Characteristics, Operating System, Laptop's Weight, Laptop's Price
+
+Machine Leaning Problem It is a Regresion problem, for a given columns we need to predict the price of laptop.
+
+# Performance Metric
+
+R2 Score
+
+Mean Absolute Error
